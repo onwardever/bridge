@@ -4,7 +4,6 @@
 *.d
 
 # Object files
-*.o
 *.ko
 *.obj
 *.elf
@@ -32,7 +31,6 @@
 
 # Executables
 *.exe
-*.out
 *.app
 *.i*86
 *.x86_64
@@ -58,7 +56,6 @@ dkms.conf
 
 # IntelliJ project files
 .idea
-*.iml
 out
 gen
 ### JetBrains template
@@ -66,7 +63,6 @@ gen
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff
-.idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
